@@ -6,7 +6,7 @@ The Curiosity Nano Adapter Board (DM164150) is used in conjunction with the Curi
 
 
 ### Curiosity Nano Development Board and Nano Base Board:
-![nano boards](images/Nano.png)
+![nano boards](images/57Q43_nano.png)
 
 ### Complete Project Setup:
 ![complete project](images/horz.png)
